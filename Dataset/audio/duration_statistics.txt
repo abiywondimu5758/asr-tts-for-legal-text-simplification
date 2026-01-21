@@ -1,0 +1,67 @@
+======================================================================
+AUDIO DURATION STATISTICS
+Generated: 2026-01-04 18:40:32
+======================================================================
+
+Overall Statistics:
+  Total duration: 25.04 hours (1502.33 minutes)
+  Average duration: 11.88 seconds
+  Min duration: 2.23 seconds
+  Max duration: 55.68 seconds
+  Total files: 7590
+
+----------------------------------------------------------------------
+1. TOTAL DURATION PER DOMAIN:
+----------------------------------------------------------------------
+                                          Count  Total (seconds)  Total (minutes)  Total (hours)  Mean (seconds)
+domain_name                                                                                                     
+Criminal Law and Procedures                1188         15859.37           264.32           4.41           13.35
+Contracts and Commercial Law               1041         11893.08           198.22           3.30           11.42
+Constitutional and Administrative Law      1033         11496.38           191.61           3.19           11.13
+Tax and Financial Law                       877         10409.88           173.50           2.89           11.87
+International Law and Treaties              496          9637.61           160.63           2.68           19.43
+Regulatory and Administrative Procedures    774          8675.26           144.59           2.41           11.21
+Court Procedures and Judicial Processes     702          8517.96           141.97           2.37           12.13
+Property and Civil Law                      812          6874.99           114.58           1.91            8.47
+Family Law and Labor Law                    667          6775.20           112.92           1.88           10.16
+
+----------------------------------------------------------------------
+2. TOTAL DURATION PER VOICE:
+----------------------------------------------------------------------
+        Count  Total (seconds)  Total (minutes)  Total (hours)  Mean (seconds)
+voice                                                                         
+mekdes   3036         32934.10           548.90           9.15           10.85
+ameha    3036         31635.96           527.27           8.79           10.42
+gtts     1518         25569.67           426.16           7.10           16.84
+
+----------------------------------------------------------------------
+3. DURATION PER VOICE PER DOMAIN (Voice x Domain Breakdown):
+----------------------------------------------------------------------
+                                                 Count  Total (seconds)  Total (minutes)  Total (hours)  Mean (seconds)
+voice  domain_name                                                                                                     
+ameha  Family Law and Labor Law                    581          5441.59            90.69           1.51            9.37
+       Tax and Financial Law                       575          5072.71            84.55           1.41            8.82
+       Criminal Law and Procedures                 246          4644.29            77.40           1.29           18.88
+       Property and Civil Law                      390          3870.36            64.51           1.08            9.92
+       International Law and Treaties              187          3470.21            57.84           0.96           18.56
+       Contracts and Commercial Law                372          2698.44            44.97           0.75            7.25
+       Regulatory and Administrative Procedures    258          2616.98            43.62           0.73           10.14
+       Constitutional and Administrative Law       223          1967.66            32.79           0.55            8.82
+       Court Procedures and Judicial Processes     204          1853.71            30.90           0.51            9.09
+gtts   Contracts and Commercial Law                311          5643.48            94.06           1.57           18.15
+       Constitutional and Administrative Law       254          4409.23            73.49           1.22           17.36
+       Criminal Law and Procedures                 189          4361.09            72.68           1.21           23.07
+       Regulatory and Administrative Procedures    323          3914.98            65.25           1.09           12.12
+       International Law and Treaties              152          3809.02            63.48           1.06           25.06
+       Court Procedures and Judicial Processes     289          3431.88            57.20           0.95           11.88
+mekdes Criminal Law and Procedures                 753          6853.99           114.23           1.90            9.10
+       Tax and Financial Law                       302          5337.17            88.95           1.48           17.67
+       Constitutional and Administrative Law       556          5119.49            85.32           1.42            9.21
+       Contracts and Commercial Law                358          3551.16            59.19           0.99            9.92
+       Court Procedures and Judicial Processes     209          3232.37            53.87           0.90           15.47
+       Property and Civil Law                      422          3004.63            50.08           0.83            7.12
+       International Law and Treaties              157          2358.38            39.31           0.66           15.02
+       Regulatory and Administrative Procedures    193          2143.30            35.72           0.60           11.11
+       Family Law and Labor Law                     86          1333.61            22.23           0.37           15.51
+
+======================================================================

@@ -18,14 +18,8 @@ env/
 .ipynb_checkpoints/
 
 # Data / models / caches
-Dataset/
-Dataset_1.5h/
-Dataset_2.0h/
-Dataset_4.0h/
-Dataset_6.0h/
 models/
 evaluation_cache/
-speecht5_test_outputs/
 whisper_test_outputs/
 wav2vec2_ctc_only_baseline/
 
@@ -45,7 +39,5 @@ wav2vec2_ctc_only_baseline/
 .env.*
 *.pem
 *.key
-
-.DS_Store
 
 .DS_Store
